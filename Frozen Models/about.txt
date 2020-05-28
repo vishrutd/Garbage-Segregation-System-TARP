@@ -1,0 +1,1 @@
+These files are basically the frozen models obtained after our training and validation processes. These can be plugged into our classifier file to start the classification on newly captured images.
