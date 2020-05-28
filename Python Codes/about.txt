@@ -1,1 +1,1 @@
-This folder contains the Jupyter Notebook used for training and testing, alongwith Classifier.py which is the program to for doing the actual classification on Raspberry Pi
+This folder contains the Jupyter Notebook used for training and testing, alongwith Classifier.py which is the Python program for doing the actual classification on Raspberry Pi
